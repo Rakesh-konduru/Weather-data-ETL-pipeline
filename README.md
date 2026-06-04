@@ -1,4 +1,4 @@
-Weather Data Pipeline using Databricks
+Weather Data ETL Pipeline using Databricks
 Overview
 
 This project demonstrates the development of a data pipeline using Databricks to process and transform weather data into structured tables for analysis. The pipeline handles data ingestion, cleaning, transformation, and storage in an optimized format.
